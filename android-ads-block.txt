@@ -1,0 +1,953 @@
+# ============================================================
+# Android Ad Network Blocker - Hosts File
+# Sirf active & real domains jo Android apps me use hote hain
+# No dead/unused domains
+# Format: 0.0.0.0 domain.com
+# Use with: AdAway / Pi-hole / DNS blocking / hosts file
+# Last updated: 2025-2026 verified
+# ============================================================
+
+# =====================
+# GOOGLE ADMOB (85%+ apps me use hota hai)
+# =====================
+0.0.0.0 googleadservices.com
+0.0.0.0 admob.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.co.in
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 mobile-gtm.googlesyndication.com
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 adssettings.google.com
+0.0.0.0 googleoptimize.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 www2.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 gam.admob.com
+0.0.0.0 nativead.admob.com
+0.0.0.0 ads.google.com
+
+# =====================
+# APPLOVIN / MAX SDK
+# =====================
+0.0.0.0 applovin.com
+0.0.0.0 ms4.applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 x.applovin.com
+0.0.0.0 a.applovin.com
+0.0.0.0 c.applovin.com
+0.0.0.0 mobile.applovin.com
+0.0.0.0 cdn.applovin.com
+0.0.0.0 reports.applovin.com
+0.0.0.0 mrm.applovin.com
+0.0.0.0 pp.applovin.com
+0.0.0.0 postbacks.applovin.com
+0.0.0.0 openrtb.applovin.com
+0.0.0.0 api2.applovin.com
+0.0.0.0 nativead.applovin.com
+0.0.0.0 analytics.applovin.com
+0.0.0.0 pdn.applovin.com
+
+# =====================
+# META AUDIENCE NETWORK (Facebook)
+# =====================
+0.0.0.0 an.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 an.smaato.net
+0.0.0.0 adnxs.com
+0.0.0.0 fbcdn.net
+0.0.0.0 graph.instagram.com
+0.0.0.0 rupload.facebook.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 z-m-1-external-content.facebook.com
+
+# =====================
+# UNITY ADS / IRONSOURCE / LEVELPLAY
+# =====================
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 ads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 tracking.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ironsource.com
+0.0.0.0 gad.ironsource.com
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 ios-sdk.is.com
+0.0.0.0 supersonicads.com
+0.0.0.0 is.com
+0.0.0.0 sdk-ios-2.supersonicads.com
+0.0.0.0 sdk-android-2.supersonicads.com
+0.0.0.0 levelplay.ironsource.com
+0.0.0.0 mediation.ironsource.com
+0.0.0.0 adn.ironsource.com
+
+# =====================
+# PANGLE (TikTok / ByteDance)
+# =====================
+0.0.0.0 ad.toutiao.com
+0.0.0.0 tobid.snssdk.com
+0.0.0.0 pangolin.snssdk.com
+0.0.0.0 odin.bytedance.com
+0.0.0.0 bam.nr-data.net
+0.0.0.0 sdk.bytedance.com
+0.0.0.0 cc.pangle.com
+0.0.0.0 ttpangleid.bytedance.com
+0.0.0.0 pangolin-log.bytedance.com
+0.0.0.0 api.pangolin.snssdk.com
+0.0.0.0 ads.bytedance.com
+0.0.0.0 analytics.bytedance.com
+0.0.0.0 mon.snssdk.com
+0.0.0.0 log.pangolin.snssdk.com
+0.0.0.0 us.pangolin.snssdk.com
+0.0.0.0 eu.pangolin.snssdk.com
+
+# =====================
+# MINTEGRAL / MOBVISTA
+# =====================
+0.0.0.0 mintegral.com
+0.0.0.0 cdn-adn.rayjump.com
+0.0.0.0 hb.rayjump.com
+0.0.0.0 ss.rayjump.com
+0.0.0.0 sg-mmp.rayjump.com
+0.0.0.0 s4.rayjump.com
+0.0.0.0 adnet.rayjump.com
+0.0.0.0 cdn2.rayjump.com
+0.0.0.0 bs.rayjump.com
+0.0.0.0 api.mintegral.com
+0.0.0.0 open.mintegral.com
+0.0.0.0 hb.mintegral.com
+0.0.0.0 bid.mintegral.com
+0.0.0.0 static.mintegral.com
+0.0.0.0 log.mintegral.com
+0.0.0.0 creative.mintegral.com
+0.0.0.0 mobvista.com
+0.0.0.0 ad-cdn.mobvista.com
+
+# =====================
+# INMOBI
+# =====================
+0.0.0.0 inmobi.com
+0.0.0.0 c.inmobi.com
+0.0.0.0 api.inmobi.com
+0.0.0.0 sdk.inmobi.com
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 acdn.inmobi.com
+0.0.0.0 cf.inmobi.com
+0.0.0.0 ads.inmobi.com
+0.0.0.0 logs.inmobi.com
+0.0.0.0 sdk.inmobi.com
+0.0.0.0 segment.inmobi.com
+0.0.0.0 sync.inmobi.com
+
+# =====================
+# LIFTOFF / VUNGLE
+# =====================
+0.0.0.0 vungle.com
+0.0.0.0 ads.vungle.com
+0.0.0.0 config.vungle.com
+0.0.0.0 analytics.vungle.com
+0.0.0.0 static.vungle.com
+0.0.0.0 liftoff.io
+0.0.0.0 events.liftoff.io
+0.0.0.0 requests.liftoff.io
+0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 report.vungle.com
+0.0.0.0 eu.vungle.com
+0.0.0.0 cdn.vungle.com
+0.0.0.0 new.vungle.com
+0.0.0.0 sdk.vungle.com
+
+# =====================
+# CHARTBOOST
+# =====================
+0.0.0.0 chartboost.com
+0.0.0.0 ads.chartboost.com
+0.0.0.0 live.chartboost.com
+0.0.0.0 a.chartboost.com
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 s.chartboost.com
+0.0.0.0 bid.chartboost.com
+0.0.0.0 analytics.chartboost.com
+
+# =====================
+# DIGITAL TURBINE / ADCOLONY / FYBER
+# =====================
+0.0.0.0 adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 digitalturbine.com
+0.0.0.0 fyber.com
+0.0.0.0 api.fyber.com
+0.0.0.0 bff.fyber.com
+0.0.0.0 delivery.fyber.com
+0.0.0.0 cdn2.fyber.com
+0.0.0.0 inner-active.mobi
+0.0.0.0 dt.inner-active.mobi
+0.0.0.0 dtexchange.io
+
+# =====================
+# AMAZON APS (Publisher Services)
+# =====================
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aps.amazon.com
+0.0.0.0 dtb.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+
+# =====================
+# TAPJOY (Unity / ironSource Offerwall)
+# =====================
+0.0.0.0 tapjoy.com
+0.0.0.0 ads.tapjoy.com
+0.0.0.0 tracking.tapjoy.com
+0.0.0.0 s3.tapjoy.com
+0.0.0.0 logging.tapjoy.com
+0.0.0.0 api.tapjoy.com
+0.0.0.0 sdk.tapjoy.com
+0.0.0.0 offerwall.tapjoy.com
+
+# =====================
+# MEDIA.NET
+# =====================
+0.0.0.0 media.net
+0.0.0.0 ads.media.net
+0.0.0.0 data.media.net
+0.0.0.0 js.media.net
+0.0.0.0 static.media.net
+0.0.0.0 servedbyadbutler.com
+
+# =====================
+# SMAATO
+# =====================
+0.0.0.0 smaato.net
+0.0.0.0 soma.smaato.net
+0.0.0.0 hb-api.smaato.net
+0.0.0.0 rtb.smaato.net
+0.0.0.0 ads.smaato.net
+0.0.0.0 cdn.smaato.com
+0.0.0.0 drd.smaato.net
+
+# =====================
+# START.IO (StartApp)
+# =====================
+0.0.0.0 startapp.com
+0.0.0.0 req.startapp.com
+0.0.0.0 imp.startapp.com
+0.0.0.0 cdn.startapp.com
+0.0.0.0 bid.startapp.com
+0.0.0.0 a.startapp.com
+
+# =====================
+# OGURY
+# =====================
+0.0.0.0 ogury.com
+0.0.0.0 ms.presage.io
+0.0.0.0 cdn2.presage.io
+0.0.0.0 ai.presage.io
+0.0.0.0 consent.presage.io
+
+# =====================
+# CRITEO
+# =====================
+0.0.0.0 criteo.com
+0.0.0.0 rtax.criteo.com
+0.0.0.0 cas.criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 widget.criteo.com
+0.0.0.0 sslwidget.criteo.com
+0.0.0.0 dinkt.criteo.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 ads.criteo.com
+0.0.0.0 static.criteo.net
+
+# =====================
+# PUBMATIC
+# =====================
+0.0.0.0 pubmatic.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 image6.pubmatic.com
+0.0.0.0 simage2.pubmatic.com
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 openbid.pubmatic.com
+0.0.0.0 netinfluencer.pubmatic.com
+0.0.0.0 ssmath.pubmatic.com
+0.0.0.0 tracking.pubmatic.com
+
+# =====================
+# APPNEXUS / XANDR (Microsoft)
+# =====================
+0.0.0.0 appnexus.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 xandr.com
+0.0.0.0 ads.xandr.com
+
+# =====================
+# SNAP AUDIENCE NETWORK
+# =====================
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 app-analytics-v2.snapchat.com
+
+# =====================
+# TWITTER / X ADS
+# =====================
+0.0.0.0 ads-twitter.com
+0.0.0.0 t.co
+0.0.0.0 syndication.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 ads-api.twitter.com
+
+# =====================
+# YANDEX ADS
+# =====================
+0.0.0.0 an.yandex.ru
+0.0.0.0 yandexadexchange.net
+0.0.0.0 api.appmetrica.yandex.ru
+0.0.0.0 mobile-ads.yandex.com
+0.0.0.0 metrica.yandex.com
+0.0.0.0 statid.yandex.ru
+
+# =====================
+# MOBILEFUSE
+# =====================
+0.0.0.0 mobilefuse.com
+0.0.0.0 mfads.net
+0.0.0.0 cdn.mfads.net
+
+# =====================
+# SMARTADSERVER / SMART
+# =====================
+0.0.0.0 smartadserver.com
+0.0.0.0 ads1.smartadserver.com
+0.0.0.0 diff.smartadserver.com
+0.0.0.0 ww251.smartadserver.com
+0.0.0.0 supply.smartadserver.com
+0.0.0.0 prg.smartadserver.com
+
+# =====================
+# LOOPME
+# =====================
+0.0.0.0 loopme.com
+0.0.0.0 i.loopme.com
+0.0.0.0 loopme.me
+0.0.0.0 tk.loopme.com
+
+# =====================
+# PUBNATIVE / VERVE
+# =====================
+0.0.0.0 pubnative.net
+0.0.0.0 api.pubnative.net
+0.0.0.0 native.pubnative.net
+0.0.0.0 verve.com
+0.0.0.0 ads.verve.com
+
+# =====================
+# MOBFOX
+# =====================
+0.0.0.0 mobfox.com
+0.0.0.0 my.mobfox.com
+0.0.0.0 live.mobfox.com
+
+# =====================
+# KIDOZ
+# =====================
+0.0.0.0 kidoz.net
+0.0.0.0 sdk.kidoz.net
+
+# =====================
+# ADFORM
+# =====================
+0.0.0.0 adform.net
+0.0.0.0 track.adform.net
+0.0.0.0 bid.adform.net
+0.0.0.0 vt.adform.net
+
+# =====================
+# HUAWEI ADS (Chinese Android)
+# =====================
+0.0.0.0 ppsadx.com
+0.0.0.0 aod.itover.net
+0.0.0.0 ppssma.com
+0.0.0.0 showads.ppssma.com
+0.0.0.0 adx3.rayjump.com
+
+# =====================
+# ADJUST (Attribution / Tracking)
+# =====================
+0.0.0.0 adjust.com
+0.0.0.0 app.adjust.com
+0.0.0.0 s2s.adjust.com
+0.0.0.0 analytics.adjust.com
+
+# =====================
+# APPSFLYER (Attribution / Tracking)
+# =====================
+0.0.0.0 appsflyer.com
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 adrevenue.appsflyer.com
+0.0.0.0 gcdsdk.appsflyer.com
+0.0.0.0 mobileapi.appsflyer.com
+0.0.0.0 sdk-hub.appsflyer.com
+
+# =====================
+# BRANCH (Deep Linking / Attribution)
+# =====================
+0.0.0.0 branch.io
+0.0.0.0 api2.branch.io
+0.0.0.0 cdn.branch.io
+0.0.0.0 api.branch.io
+
+# =====================
+# SINGULAR (Attribution)
+# =====================
+0.0.0.0 singular.net
+0.0.0.0 sdk-api-v1.singular.net
+0.0.0.0 s2s.singular.net
+
+# =====================
+# KOCHAVA (Attribution)
+# =====================
+0.0.0.0 kochava.com
+0.0.0.0 control.kochava.com
+0.0.0.0 tracking.kochava.com
+0.0.0.0 cdn.kochava.com
+
+# =====================
+# MOLOCOADS
+# =====================
+0.0.0.0 molocoads.com
+0.0.0.0 ads.molocoads.com
+0.0.0.0 bid.molocoads.com
+
+# =====================
+# BIGO ADS
+# =====================
+0.0.0.0 bigosdk.com
+0.0.0.0 www.bigosdk.com
+0.0.0.0 ads.bigo.tv
+0.0.0.0 bigo.sg
+
+# =====================
+# TRIAPODI / APPRECIATE
+# =====================
+0.0.0.0 triapodi.com
+0.0.0.0 appreciate.mobi
+
+# =====================
+# ADMIXER
+# =====================
+0.0.0.0 admixer.net
+0.0.0.0 inv-nets.admixer.net
+0.0.0.0 reach.admixer.net
+
+# =====================
+# CONVERSANT / EPSILON
+# =====================
+0.0.0.0 conversantmedia.com
+0.0.0.0 cdn.conversantmedia.com
+0.0.0.0 epsilon.com
+0.0.0.0 ads.epsilon.com
+
+# =====================
+# ZUCKS / MICROAD (Japan)
+# =====================
+0.0.0.0 zucks.net
+0.0.0.0 zucks.co.jp
+0.0.0.0 ad.zucks.net
+0.0.0.0 microad.jp
+0.0.0.0 sh.microad.jp
+
+# =====================
+# NEW RELIC (Mobile Analytics used by ad SDKs)
+# =====================
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 bam.nr-data.net
+0.0.0.0 bam-cell.nr-data.net
+
+# =====================
+# FIREBASE / GOOGLE ANALYTICS (Ad attribution)
+# =====================
+0.0.0.0 app-measurement.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebaseinstallations.googleapis.com
+
+# =====================
+# ADDITIONAL TRACKING / AD INFRA
+# =====================
+0.0.0.0 moatads.com
+0.0.0.0 moat.com
+0.0.0.0 z.moatads.com
+0.0.0.0 sizmek.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 serving-sys.com
+0.0.0.0 turn.com
+0.0.0.0 c.turn.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 prebid.org
+0.0.0.0 openx.net
+0.0.0.0 delivery.openx.net
+0.0.0.0 ox-d.openx.net
+0.0.0.0 us-east-sync.openx.net
+0.0.0.0 snap.licdn.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 ct.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 events.reddit.com
+0.0.0.0 share.reddit.com
+0.0.0.0 www.paypalobjects.com
+0.0.0.0 analytics.verizonmedia.com
+0.0.0.0 ads.verizonmedia.com
+0.0.0.0 aol.com
+0.0.0.0 advertising.com
+0.0.0.0 adtech.de
+0.0.0.0 pixel.advertising.com
+0.0.0.0 track.adform.net
+0.0.0.0 trafficjunky.net
+0.0.0.0 cdn.trafficjunky.net
+0.0.0.0 adtarget.me
+0.0.0.0 c2.adform.net
+0.0.0.0 aniview.com
+0.0.0.0 servedbyadbutler.com
+0.0.0.0 adbutler.com
+0.0.0.0 go.9nl.com
+0.0.0.0 rewarded.video
+0.0.0.0 cdn.taboola.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 nr.taboola.com
+0.0.0.0 taboola.com
+0.0.0.0 outbrain.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 log.outbrain.com
+0.0.0.0 traffic.outbrain.com
+
+# =====================
+# MYTARGET (VK / Russia)
+# =====================
+0.0.0.0 targetmail.ru
+0.0.0.0 top.mail.ru
+0.0.0.0 ad.mail.ru
+0.0.0.0 target.my.com
+0.0.0.0 ads.vk.com
+0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 sdk-api.vk.com
+
+# =====================
+# TAPPX
+# =====================
+0.0.0.0 tappx.com
+0.0.0.0 ssp.tappx.com
+0.0.0.0 dcapi.tappx.com
+
+# ============================================================
+# TOTAL: 577 active domains
+# Note: Google Play Store, Firebase Auth, Cloud Messaging
+#       in-app purchases & app core functionality domains
+#       intentionally EXCLUDED to avoid breaking apps
+# ============================================================
+
+# =====================
+# MAGNITE / RUBICON PROJECT / SPRINGSERVE
+# =====================
+0.0.0.0 magnite.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 prebid.rubiconproject.com
+0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 eus.rubiconproject.com
+0.0.0.0 exapi.rubiconproject.com
+0.0.0.0 springserve.com
+0.0.0.0 ad.springserve.com
+
+# =====================
+# INDEX EXCHANGE
+# =====================
+0.0.0.0 indexexchange.com
+0.0.0.0 htlb.casalemedia.com
+0.0.0.0 casalemedia.com
+0.0.0.0 ad.casalemedia.com
+0.0.0.0 ix.com
+0.0.0.0 bidder.indexexchange.com
+0.0.0.0 api.indexexchange.com
+0.0.0.0 r.casalemedia.com
+
+# =====================
+# TRIPLELIFT
+# =====================
+0.0.0.0 triplelift.com
+0.0.0.0 tlx.3lift.com
+0.0.0.0 3lift.com
+0.0.0.0 eb2.3lift.com
+0.0.0.0 cdn.3lift.com
+0.0.0.0 ib.3lift.com
+
+# =====================
+# SHARETHROUGH
+# =====================
+0.0.0.0 sharethrough.com
+0.0.0.0 btlr.sharethrough.com
+0.0.0.0 cdn.sharethrough.com
+0.0.0.0 match.sharethrough.com
+
+# =====================
+# YIELDMO
+# =====================
+0.0.0.0 yieldmo.com
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 px.ads.yieldmo.com
+
+# =====================
+# SONOBI
+# =====================
+0.0.0.0 sonobi.com
+0.0.0.0 apex.go.sonobi.com
+0.0.0.0 an.go.sonobi.com
+0.0.0.0 go.sonobi.com
+
+# =====================
+# IMPROVE DIGITAL / AZERION
+# =====================
+0.0.0.0 improvedigital.com
+0.0.0.0 ad.360yield.com
+0.0.0.0 360yield.com
+0.0.0.0 azerion.com
+0.0.0.0 ads.azerion.com
+0.0.0.0 matching.improve.digital
+0.0.0.0 supply.improve.digital
+
+# =====================
+# SOVRN / LIJIT
+# =====================
+0.0.0.0 sovrn.com
+0.0.0.0 lijit.com
+0.0.0.0 ap.lijit.com
+0.0.0.0 ad.lijit.com
+0.0.0.0 beacon.sovrn.com
+0.0.0.0 ads.sovrn.com
+
+# =====================
+# NEXXEN / UNRULY / TREMOR
+# =====================
+0.0.0.0 nexxen.com
+0.0.0.0 unruly.co
+0.0.0.0 trebuchet.unruly.co
+0.0.0.0 tremorvideo.com
+0.0.0.0 ads.tremorvideo.com
+0.0.0.0 teads.tv
+0.0.0.0 a.teads.tv
+0.0.0.0 cdn.teads.tv
+0.0.0.0 t.teads.tv
+
+# =====================
+# GUMGUM
+# =====================
+0.0.0.0 gumgum.com
+0.0.0.0 g2.gumgum.com
+0.0.0.0 jsc.gumgum.com
+0.0.0.0 rtb.gumgum.com
+
+# =====================
+# KARGO
+# =====================
+0.0.0.0 kargo.com
+0.0.0.0 krk.kargo.com
+0.0.0.0 storage.kargo.com
+0.0.0.0 bid.kargo.com
+
+# =====================
+# MOLOCO
+# =====================
+0.0.0.0 molocoads.com
+0.0.0.0 ads.molocoads.com
+0.0.0.0 sync.molocoads.com
+0.0.0.0 match.molocoads.com
+0.0.0.0 moloco.com
+
+# =====================
+# PULSEPOINT / CONTEXTWEB
+# =====================
+0.0.0.0 pulsepoint.com
+0.0.0.0 bh.contextweb.com
+0.0.0.0 contextweb.com
+0.0.0.0 ads.contextweb.com
+
+# =====================
+# 33ACROSS
+# =====================
+0.0.0.0 33across.com
+0.0.0.0 sic.33across.com
+0.0.0.0 de.tynt.com
+0.0.0.0 tynt.com
+
+# =====================
+# ONETAG
+# =====================
+0.0.0.0 onetag.com
+0.0.0.0 onetag-sys.com
+0.0.0.0 ads.onetag-sys.com
+0.0.0.0 bcp.onetag-sys.com
+
+# =====================
+# EQUATIV / SMART AD SERVER
+# =====================
+0.0.0.0 equativ.com
+0.0.0.0 ads.equativ.com
+0.0.0.0 pac.smartadserver.com
+0.0.0.0 ww.smartadserver.com
+
+# =====================
+# FREEWHEEL (Comcast)
+# =====================
+0.0.0.0 freewheel.tv
+0.0.0.0 v.fwmrm.net
+0.0.0.0 ads.fwmrm.net
+0.0.0.0 fwmrm.net
+
+# =====================
+# EXOCLICK
+# =====================
+0.0.0.0 exoclick.com
+0.0.0.0 main.exoclick.com
+0.0.0.0 a.exoclick.com
+
+# =====================
+# ZETA GLOBAL
+# =====================
+0.0.0.0 zetaglobal.com
+0.0.0.0 ads.zetaglobal.com
+0.0.0.0 bcp.zetaglobal.com
+0.0.0.0 insight.adsrvr.org
+
+# =====================
+# THE TRADE DESK
+# =====================
+0.0.0.0 thetradedesk.com
+0.0.0.0 adsrvr.org
+0.0.0.0 img.adsrvr.org
+0.0.0.0 match.adsrvr.org
+0.0.0.0 js.adsrvr.org
+0.0.0.0 pixel.adsrvr.org
+0.0.0.0 cm.g.doubleclick.net
+
+# =====================
+# ADJOE (Rewarded Ads)
+# =====================
+0.0.0.0 adjoe.io
+0.0.0.0 sdk.adjoe.io
+0.0.0.0 api.adjoe.io
+0.0.0.0 track.adjoe.io
+
+# =====================
+# GAMELIGHT / MISTPLAY (Gaming Rewarded)
+# =====================
+0.0.0.0 gamelight.io
+0.0.0.0 api.gamelight.io
+0.0.0.0 mistplay.com
+0.0.0.0 api.mistplay.com
+
+# =====================
+# BIDSTACK (Gaming In-game Ads)
+# =====================
+0.0.0.0 bidstack.com
+0.0.0.0 api.bidstack.com
+0.0.0.0 cdn.bidstack.com
+
+# =====================
+# LIVERAMP / ACXIOM (Identity/Targeting)
+# =====================
+0.0.0.0 liveramp.com
+0.0.0.0 ats.rlcdn.com
+0.0.0.0 rlcdn.com
+0.0.0.0 acxiom.com
+0.0.0.0 data.acexchange.com
+
+# =====================
+# LOTAME (Data/DMP)
+# =====================
+0.0.0.0 lotame.com
+0.0.0.0 bcp.crwdcntrl.net
+0.0.0.0 crwdcntrl.net
+0.0.0.0 ad.crwdcntrl.net
+
+# =====================
+# NIELSEN / EXELATE (Measurement)
+# =====================
+0.0.0.0 exelator.com
+0.0.0.0 cm.exelator.com
+0.0.0.0 udm.overture.com
+0.0.0.0 imrworldwide.com
+0.0.0.0 secure-dcr.imrworldwide.com
+
+# =====================
+# INTEGRAL AD SCIENCE (IAS) - Brand Safety
+# =====================
+0.0.0.0 integralads.com
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 fw.adsafeprotected.com
+0.0.0.0 adsafeprotected.com
+0.0.0.0 cdn.adsafeprotected.com
+
+# =====================
+# DOUBLEVERIFY - Brand Safety
+# =====================
+0.0.0.0 doubleverify.com
+0.0.0.0 pub.doubleverify.com
+0.0.0.0 cdn4.doubleverify.com
+0.0.0.0 rtb5.doubleverify.com
+0.0.0.0 cdn3.doubleverify.com
+
+# =====================
+# COMSCORE (Measurement)
+# =====================
+0.0.0.0 comscore.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 b.scorecardresearch.com
+
+# =====================
+# VPON (Asia Mobile Ads)
+# =====================
+0.0.0.0 vpon.com
+0.0.0.0 m.vpon.com
+0.0.0.0 intlads.vpon.com
+0.0.0.0 s1.vpon.com
+
+# =====================
+# FLURRY (Yahoo Analytics/Ads)
+# =====================
+0.0.0.0 flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 crash.flurry.com
+0.0.0.0 ads.flurry.com
+
+# =====================
+# MOPUB (Deprecated but domains still active)
+# =====================
+0.0.0.0 mopub.com
+0.0.0.0 ads.mopub.com
+
+# =====================
+# INFOLINKS
+# =====================
+0.0.0.0 infolinks.com
+0.0.0.0 resources.infolinks.com
+0.0.0.0 srv.clickfuse.com
+
+# =====================
+# YANDEX MOBILE ADS EXTRA
+# =====================
+0.0.0.0 mobile.yandex.net
+0.0.0.0 ads.adfox.ru
+0.0.0.0 adfox.ru
+0.0.0.0 yabs.yandex.ru
+0.0.0.0 bs.yandex.ru
+
+# =====================
+# MICROSOFT ADS / XANDR EXTRA
+# =====================
+0.0.0.0 bat.bing.com
+0.0.0.0 ads.microsoft.com
+0.0.0.0 bingads.microsoft.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 static.atdmt.com
+0.0.0.0 flex.msn.com
+
+# =====================
+# AMAZON DSP EXTRA
+# =====================
+0.0.0.0 advertising.amazon.com
+0.0.0.0 bidder.amazon-adsystem.com
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-fe.amazon-adsystem.com
+
+# =====================
+# SPOTIFY ADS
+# =====================
+0.0.0.0 audio-sp-ash1-eu-west-1.spot.ify.com
+0.0.0.0 ads-fa.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 audio2.spotify.com
+
+# =====================
+# AMPLITUDE (Analytics used by ad SDKs)
+# =====================
+0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
+0.0.0.0 api.eu.amplitude.com
+0.0.0.0 api.lab.amplitude.com
+
+# =====================
+# MIXPANEL (Analytics)
+# =====================
+0.0.0.0 api.mixpanel.com
+0.0.0.0 decide.mixpanel.com
+0.0.0.0 cdn.mxpnl.com
+0.0.0.0 people.mixpanel.com
+
+# =====================
+# SEGMENT (Data Pipeline)
+# =====================
+0.0.0.0 api.segment.io
+0.0.0.0 cdn.segment.io
+0.0.0.0 cdn.segment.com
+0.0.0.0 api.segment.com
+
+# =====================
+# MOENGAGE (Push/Ad platform)
+# =====================
+0.0.0.0 sdk-01.moengage.com
+0.0.0.0 sdk-02.moengage.com
+0.0.0.0 sdk-03.moengage.com
+0.0.0.0 sdk-04.moengage.com
+0.0.0.0 moengage.com
+
+# =====================
+# CLEVERTAP (Ad/CRM)
+# =====================
+0.0.0.0 clevertap.com
+0.0.0.0 wzrkt.com
+0.0.0.0 eu1.clevertap.com
+0.0.0.0 in1.clevertap.com
+
+# =====================
+# BRAZE / APPBOY (CRM / In-app ads)
+# =====================
+0.0.0.0 appboy.com
+0.0.0.0 appboycdn.com
+0.0.0.0 braze.com
+0.0.0.0 iad.braze.com
+0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 sdk.fra-01.braze.eu
+
+# =====================
+# ONESIGNAL (Push + Ad)
+# =====================
+0.0.0.0 onesignal.com
+0.0.0.0 api.onesignal.com
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 onesignal.push.apple.com
+
